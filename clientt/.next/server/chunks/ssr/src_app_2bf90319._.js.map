@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 19, "column": 0}, "map": {"version":3,"sources":["file://C%3A/Users/kunal/OneDrive/Documents/one%20drive/Desktop/FelixN/client/src/app/signin/page.tsx"],"sourcesContent":["import { SignIn } from '@clerk/nextjs'\r\nimport React from 'react'\r\n\r\nconst page = () => {\r\n  return (\r\n    <div className='flex justify-center items-center h-screen' >\r\n      <SignIn afterSignInUrl=\"/user\" />;\r\n    </div>\r\n  )\r\n}\r\n\r\nexport default page\r\n"],"names":[],"mappings":";;;;AAAA;;;AAGA,MAAM,OAAO;IACX,qBACE,8OAAC;QAAI,WAAU;;0BACb,8OAAC,sLAAA,CAAA,SAAM;gBAAC,gBAAe;;;;;;YAAU;;;;;;;AAGvC;uCAEe","debugId":null}}]
+}

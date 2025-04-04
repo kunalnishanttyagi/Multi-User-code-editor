@@ -2,6 +2,7 @@
 node_modules/  
 client/node_modules/  
 server/node_modules/  
+clientt/node_modules/
 
 # Environment variables  
 .env  
